@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Impierium.de</title>
+ <link href="http://th0m4d.github.io/atom.xml" rel="self"/>
+ <link href="http://th0m4d.github.io/"/>
+ <updated>2015-02-26T22:56:20+01:00</updated>
+ <id>http://th0m4d.github.io</id>
+ <author>
+   <name>Thomas Pieronczyk</name>
+   <email>thomas.pieronczyk@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>First Post!</title>
+   <link href="http://th0m4d.github.io//2015/02/25/first_post/"/>
+   <updated>2015-02-25T00:00:00+01:00</updated>
+   <id>http://th0m4d.github.io/2015/02/25/first_post</id>
+   <content type="html">&lt;p&gt;So, this will be my new blog. It’s far from finished, so stay tuned :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

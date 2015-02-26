@@ -1,0 +1,24 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Impierium.de
+url:              http://th0m4d.github.io
+paginate:         5
+baseurl:          /
+author:
+  name:           Thomas Pieronczyk
+  url:            http://th0m4d.github.io
+  email:          thomas.pieronczyk@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/th0m4d/th0m4d.github.io
+
+# sites
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
